@@ -13,3 +13,11 @@ $ git add file1 file2
 $ git commit -m "add your commit message here"  
 $ git push origin branch_name  
 
+**Bold**  
+*Italics*  
+~~text~~  
+==text==  
+>hello world, reference  
+'printf("hello, world\n");  
+------------  
+
