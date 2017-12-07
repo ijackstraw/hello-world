@@ -16,8 +16,8 @@ $ git push origin branch_name
 **Bold**  
 *Italics*  
 ~~text~~  
-> hello world, reference  
 `printf("hello, world\n");`  
 
+> hello world, reference  
 ------------  
 
